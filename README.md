@@ -28,7 +28,7 @@ This project demonstrates basic CRUD operations (Create, Read, Update, Delete) a
 - Ensure SQL Server is running and accessible.
 - Update the connection string in appsettings.json.
 - Build and run the project using:
- ``bash
+ ```bash
 dotnet run
 
 
